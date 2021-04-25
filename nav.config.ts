@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/ntgoaywh/nav',
 
   // 部署分支
   branch: 'main',
@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://ntgoaywh.github.io/nav',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
@@ -44,7 +44,7 @@ const c: IConfig = {
 
   // Light 主题配置
   lightThemeConfig: {
-    // https://www.nav3.cn/#/light?q=grabient
+    // https://ntgoaywh.github.io/nav/#/light?q=grabient
     backgroundLinear: [
       'linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%)',
       'linear-gradient(90deg, #FEE140 0%, #FA709A 100%)',
